@@ -9,7 +9,7 @@ export default function UserIdentification()
             </div>
             <h4>Juan Dela Cruz</h4>
             <p className="text-medium-i">Assoc. President</p>
-            <p >Sindalan Toda</p>
+            <span >Sindalan Toda</span>
         </div>
     )
 }
