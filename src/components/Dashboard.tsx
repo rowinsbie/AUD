@@ -2,6 +2,7 @@ import NavBar from "./layout/NavBar"
 import UserIdentification from "./user/UserIdentification";
 import SideBar from "./layout/SideBar";
 import ReportCard from "./Dashboard/ReportCard";
+import RecentActivity from "./Dashboard/RecentActivity";
 import { Container,Row,Col } from "react-bootstrap";
 
 import '../assets/scss/Dashboard.scss';
@@ -20,6 +21,9 @@ export default function Dashboard()
                     </Col>
                     <Col lg={7}>
                         <ReportCard />
+                    </Col>
+                    <Col lg={3}>
+                        <RecentActivity />
                     </Col>
                 </Row>
                

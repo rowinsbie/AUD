@@ -8,7 +8,7 @@ export default function UserIdentification()
                 <Image src={ProfileSample} className='user-profile-picture'   fluid={true} width={500} />
             </div>
             <h4>Juan Dela Cruz</h4>
-            <p className="text-medium-i">Assoc. President</p>
+            <span className="text-medium-i">Assoc. President</span><br />
             <span >Sindalan Toda</span>
         </div>
     )
