@@ -1,10 +1,16 @@
 *{
   font-family: 'roboto-regular';
+  
 }
 
 h1,h2,h3,h4,h5,h6
 {
   font-family: 'roboto-black';
+}
+
+p, span
+{
+  line-height: 6px !important;
 }
 
 body {
@@ -18,7 +24,24 @@ code {
 }
 
 
+.text-medium-i
+{
+  font-family: 'rb-m-italic';
+}
 
+.text-light
+{
+  font-family: 'roboto-light';
+}
+
+.img-circle
+{
+  border-radius: 50% !important;
+  clip-path: circle();
+  height: 50%;
+
+  box-shadow: 1px 1px 1px 1px rgb(202, 202, 202);
+}
 
 .logo
 {

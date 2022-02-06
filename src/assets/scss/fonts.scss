@@ -3,9 +3,20 @@
     src: url('../fonts/Roboto/Roboto-Light.ttf');
 }
 
+
+@font-face {
+    font-family: 'rb-l-italic';
+    src: url('../fonts/Roboto/Roboto-LightItalic.ttf');
+}
+
 @font-face {
     font-family: 'roboto-medium';
     src: url('../fonts/Roboto/Roboto-Medium.ttf');
+}
+
+@font-face {
+    font-family: 'rb-m-italic';
+    src: url('../fonts/Roboto/Roboto-MediumItalic.ttf');
 }
 
 @font-face {
@@ -14,13 +25,28 @@
 }
 
 @font-face {
+    font-family: 'rb-b-italic';
+    src: url('../fonts/Roboto/Roboto-BoldItalic.ttf');
+}
+
+@font-face {
     font-family: 'roboto-black';
     src: url('../fonts/Roboto/Roboto-Black.ttf');
 }
 
 @font-face {
+    font-family: 'rb-black-italic';
+    src: url('../fonts/Roboto/Roboto-BlackItalic.ttf');
+}
+
+@font-face {
     font-family: 'roboto-regular';
     src: url('../fonts/Roboto/Roboto-Regular.ttf');
+}
+
+@font-face {
+    font-family: 'rb-t-italic';
+    src: url('../fonts/Roboto/Roboto-ThinItalic.ttf');
 }
 
 @font-face {
