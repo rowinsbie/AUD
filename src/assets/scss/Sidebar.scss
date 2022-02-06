@@ -1,0 +1,20 @@
+
+.nav-menu-items
+{
+    .nav-item
+    {
+        margin: 0px;
+        list-style: none;
+        margin-bottom: 13px;
+        .sb-link
+        {
+            text-decoration: none;
+            color:black;
+
+            .sb-text
+            {
+                margin-left: 16px;
+            }
+        }
+    }
+}
