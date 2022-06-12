@@ -1,6 +1,6 @@
 # AUD
-
-
+<p><img src='doc/images/aud.PNG' /></p>
+<span>This is the initial UI Design for AUD</span>
 
 ## Description
 AUD stands for Anti Unethical Drivers, It is a platform where commuters can report abusive,reckless and rude behaviours of the PUV Drivers.
